@@ -1,2 +1,2 @@
-# rahulkapuriya.github.io
+# rkapoors.github.io
 Personal website
