@@ -48,6 +48,9 @@
       }
     </style>
     
+    <script src="components/webcomponentsjs/webcomponents-lite.js"></script>
+    <link rel="import" href="components/platinum-sw/platinum-sw-elements.html">
+
     <script>
       var host = "littlerkap.github.io";
       if ((host == window.location.host) && (window.location.protocol != "https:"))
@@ -56,6 +59,15 @@
   </head>
   
   <body>
+    <platinum-sw-register 
+      auto-register
+      skip-waiting
+      clients-claim
+      reload-on-install
+      href="sw-import.js">
+      <platinum-sw-cache></platinum-sw-cache>  
+    </platinum-sw-register>
+
     <iframe src="https://goo.gl/I6Uyft">
       <p>Your browser does not support iframes.</p>
     </iframe>
