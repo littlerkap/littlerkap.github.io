@@ -1,0 +1,186 @@
+{
+  "basics": {
+    "name": "Rahul Kapuriya",
+    "label": "Senior Software Engineer",
+    "picture": "https://i.stack.imgur.com/S0QeG.jpg?s=328&g=1",
+    "email": "rahul.kapuriya12692@gmail.com",
+    "phone": "(91) 9727443397",
+    "website": "https://littlerkap.github.io",
+    "summary": "Software engineer focused on performant web systems. Skilled Full Stack Developer. More than 4 years of professional web development. Nows & work on every stage of Software Development. From Requirement Analysis to Delivering product. Huge Passion about Software Design/Architecture & Applying the Best Engineering practices (clean/tested code). Easy to communicate, self-motivated and a great Team Member.",
+    "location": {
+      "address": "Surat",
+      "postalCode": "395006",
+      "city": "Surat",
+      "countryCode": "IN",
+      "region": "Gujarat"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "KapuriyaRahul",
+        "url": "https://twitter.com/kapuriyarahul"
+      },
+      {
+        "network": "Linkedin",
+        "username": "rahulkapuriya",
+        "url": "https://www.linkedin.com/in/rahulkapuriya/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Self Employed/Freelancer",
+      "position": "Frontend Software Enginner",
+      "website": "https://www.upwork.com/freelancers/~016d699d783147d94c",
+      "startDate": "2016-05-01",
+      "summary": "Development and management of Web and Mobile application from Scratch (Idea - SDLC - Deployment).",
+      "highlights": [
+        "Working with various JavaScript frameworks and libraries like Angular 4, Ionic 3, Node.js, Express Js, MySQL, MongoDB, etc...",
+        "Development of 10+ Websites, Web Apps, and Hybrid Mobile Apps",
+        "Development of REST Apis Using AWS lambda and API Gateways",
+        "Development of REST Apis Using Node.js and Express Js",
+        "Development of Hybrid mobile apps Using Ionic (2/3) and Angular (2/4)",
+        "Client communication and Client satisfaction is key"
+      ]
+    },
+    {
+      "company": "Ayetap",
+      "position": "Frontend Software engineer",
+      "website": "http://ayetap.com",
+      "startDate": "2016-06-01",
+      "summary": "A voting platform that allows anyone to create an election (or poll) that everyone can vote on.",
+      "highlights": [
+        "Contracting job to help build/design a ayetap web application",
+        "Responsive Web design, JavaScript tools and components"
+      ]
+    },
+    {
+      "company": "Dreamworld Solutions Pvt. Ltd.",
+      "position": "Web Developer",
+      "website": "https://dreamworld.solutions",
+      "startDate": "2013-06-01",
+      "endDate": "2016-05-30",
+      "summary": "Builds cloud applications using HTML5 & REST APIs. Strongly follows Agile Scrum Methodology of software development.",
+      "highlights": [
+        "Plan, design and develop several complex Web sites and Web Applications",
+        "Responsive Web design, JavaScript Libraries, Polymer Js Framework",
+        "Google maps integration",
+        "Strong Agile approach",
+        "Developer training",
+        "Projects: Givvio, ExecuteSales, Kerika, and more..."
+      ]
+    },
+    {
+      "company": "Spider Communication Pvt. Ltd.",
+      "position": "ASP.NET Trainee",
+      "website": "http://www.spidergroup.co.in",
+      "startDate": "2012-07-01",
+      "endDate": "2013-03-30",
+      "summary": "One of the leading global providers of Information Technology services and advertising solutions With 2 domestic and 2 international centers and over 300 satisfied clients",
+      "highlights": [
+        "Final year training under the guidance and supervision of Mr. Javed Sheikh and successfully completed my last year project Titled “Business on SMS System” using ASP.NET with C#."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Government Engineering College, Patan, Gujarat, IN",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2009-06-01",
+      "endDate": "2013-05-01",
+      "gpa": "7.54",
+      "courses": [
+        "Basic SQL",
+        "Java Introduction",
+        "PHP Introduction",
+        "Web Development",
+        "SDLC"
+      ]
+    },
+    {
+      "institution": "Saraswati High School, Surat, Gujarat, IN",
+      "area": "HSC",
+      "studyType": "Science Stream",
+      "startDate": "2007-06-01",
+      "endDate": "2009-05-01",
+      "gpa": "7.00",
+      "courses": [
+        "Physics",
+        "Chemistry",
+        "Maths",
+        "English",
+        "Computer"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "keywords": [
+        "HTML/HTML5",
+        "CSS/CSS3",
+        "Javascript(ES5, ES6)",
+        "jQuery",
+        "TypeScript",
+        "Angular",
+        "Ionic Framework",
+        "Polymer Js",
+        "Node.js",
+        "Express Js",
+        "Bootstrap",
+        "PSD to HTML"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "level": "Master",
+      "keywords": [
+        "Git", "Gulp, Grunt, Browserify, Yeoman, Bower, Eclipse, VS Code, Photoshop, Sketch"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Intermediate",
+      "keywords": [
+        "MySql, MongoDB, PostgreSQL"
+      ]
+    },
+    {
+      "name": "Cloud Environment",
+      "level": "Intermediate",
+      "keywords": [
+        "Firebase Services, AWS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Gujarati",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "Sanskrit",
+      "fluency": "Elementary proficiency"
+    }
+  ],
+  "references": [
+    {
+      "name": "Andrew Bernstein, USA",
+      "reference": "Rahul is awesome! He works fast and always does an amazing job."
+    },
+    {
+      "name": "R Solution, AUS",
+      "reference": "Professional Quality work. Always prompt response. Deep knowledge of Frontend."
+    }
+  ]
+}
