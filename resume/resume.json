@@ -24,6 +24,11 @@
         "network": "Linkedin",
         "username": "rahulkapuriya",
         "url": "https://www.linkedin.com/in/rahulkapuriya/"
+      },
+      {
+        "network": "skype",
+        "username": "rahul.kapuriya",
+        "url": "skype:rahul.kapuriya?call"
       }
     ]
   },
